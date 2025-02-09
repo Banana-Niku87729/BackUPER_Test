@@ -32,7 +32,7 @@ const defaultColor = 0x0000FF;
 
 const UserGuardCommand: SlashCommand = {
     info: {
-        name: "userguard",
+        name: "user-guard",
         description: "指定されたユーザーに「safeuser」ロールを付与します。",
         options: [
             {
